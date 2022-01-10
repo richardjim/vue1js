@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "UI/UX Design",
+      "id": 1,
+      "details": "lorem  The issue list is reserved exclusively for bug reports and feature requests. That means we do not accept usage questions. If you open an issue that does not conform to the requirements, it will be closed "
+    },
+    {
+      "title": "web developer",
+      "id": 2,
+      "details": "There was a time when cross platform development was considered a synonym for building an app using React Native and Flutter. The business enthusiasts and"
+    },
+    {
+      "title": "vue developer",
+      "id": 3,
+      "details": "There was a time when cross platform development was considered a synonym for building an app using React Native and Flutter. The business enthusiasts and"
+    }
+  ]
+}
